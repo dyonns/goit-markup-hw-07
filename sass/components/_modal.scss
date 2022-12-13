@@ -63,7 +63,7 @@
         align-items: center;
         justify-content: center;
 
-        &__close:hover &__close-svg {
+        &:hover &-svg {
             fill: var(--accent-color);
         }
     }

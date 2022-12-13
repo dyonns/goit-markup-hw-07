@@ -298,7 +298,7 @@ header .container {
   margin-left: 70px;
   margin-top: 12px;
 }
-.media .section-title-h3 {
+.media .section__title-h3 {
   padding-bottom: 20px;
 }
 .media__list {
@@ -425,7 +425,7 @@ header .container {
   align-items: center;
   justify-content: center;
 }
-.modal__close__close:hover .modal__close__close-svg {
+.modal__close:hover .modal__close-svg {
   fill: var(--accent-color);
 }
 .modal__close-svg {
